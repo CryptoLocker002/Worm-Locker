@@ -1,0 +1,20 @@
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master - copia\jester\obj\Debug\Worm.csprojAssemblyReference.cache
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master - copia\jester\obj\Debug\Worm.PayM3.resources
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master - copia\jester\obj\Debug\jester.Properties.Resources.resources
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master - copia\jester\obj\Debug\Worm.csproj.GenerateResource.cache
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master - copia\jester\obj\Debug\Worm.csproj.CoreCompileInputs.cache
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master - copia\jester\bin\Debug\Worm Locker.exe.config
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master - copia\jester\bin\Debug\Worm Locker.exe
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master - copia\jester\bin\Debug\Worm Locker.pdb
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master - copia\jester\obj\Debug\Worm Locker.exe
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Povlsomware-master - copia\jester\obj\Debug\Worm Locker.pdb
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Worm Locker\Worm Locker\bin\Debug\Worm Locker.exe.config
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Worm Locker\Worm Locker\bin\Debug\Worm Locker.exe
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Worm Locker\Worm Locker\bin\Debug\Worm Locker.pdb
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Worm Locker\Worm Locker\obj\Debug\Worm.csprojAssemblyReference.cache
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Worm Locker\Worm Locker\obj\Debug\Worm.PayM3.resources
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Worm Locker\Worm Locker\obj\Debug\jester.Properties.Resources.resources
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Worm Locker\Worm Locker\obj\Debug\Worm.csproj.GenerateResource.cache
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Worm Locker\Worm Locker\obj\Debug\Worm.csproj.CoreCompileInputs.cache
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Worm Locker\Worm Locker\obj\Debug\Worm Locker.exe
+C:\Users\hunter\Desktop\Trabajos\proyecto de sharith ransomware\Povlsomware-master\Worm Locker\Worm Locker\obj\Debug\Worm Locker.pdb
